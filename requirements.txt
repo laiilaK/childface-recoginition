@@ -3,3 +3,4 @@ uvicorn
 deepface
 pandas
 gdown
+tf-keras
