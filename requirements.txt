@@ -4,3 +4,4 @@ deepface
 pandas
 gdown
 tf-keras
+python-multipart
